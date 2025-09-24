@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MADHAN21105/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MADHAN21105/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
