@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MADHAN21105/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MADHAN21105/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/MADHAN21105/LeetCode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/MADHAN21105/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MADHAN21105/LeetCode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/MADHAN21105/LeetCode/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MADHAN21105/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/MADHAN21105/LeetCode/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
