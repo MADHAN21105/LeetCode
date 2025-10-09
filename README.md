@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MADHAN21105/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MADHAN21105/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MADHAN21105/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MADHAN21105/LeetCode/tree/master/0263-ugly-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MADHAN21105/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MADHAN21105/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/MADHAN21105/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MADHAN21105/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MADHAN21105/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MADHAN21105/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/MADHAN21105/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MADHAN21105/LeetCode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
