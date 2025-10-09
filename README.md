@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MADHAN21105/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/MADHAN21105/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MADHAN21105/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MADHAN21105/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/MADHAN21105/LeetCode/tree/master/3447-clear-digits) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MADHAN21105/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Number Theory
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/MADHAN21105/LeetCode/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MADHAN21105/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
