@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MADHAN21105/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MADHAN21105/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/MADHAN21105/LeetCode/tree/master/0812-rotate-string) |
+| [1894-merge-strings-alternately](https://github.com/MADHAN21105/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MADHAN21105/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MADHAN21105/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MADHAN21105/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MADHAN21105/LeetCode/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/MADHAN21105/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
