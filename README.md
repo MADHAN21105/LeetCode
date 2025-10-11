@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/MADHAN21105/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MADHAN21105/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MADHAN21105/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MADHAN21105/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,17 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MADHAN21105/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MADHAN21105/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MADHAN21105/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MADHAN21105/LeetCode/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/MADHAN21105/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/MADHAN21105/LeetCode/tree/master/0605-can-place-flowers) |
+## Counting
+|  |
+| ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
