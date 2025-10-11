@@ -129,3 +129,54 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
+# 🧠 LeetCode Solutions by MADHAN21105
+
+[![Java](https://img.shields.io/badge/Language-Java-blue)](https://github.com/MADHAN21105)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+Welcome to my LeetCode repo — a growing collection of algorithm & data structure solutions in Java.  
+I use this repo to sharpen problem solving, track progress, and showcase clean, well-commented code.
+
+---
+
+## 📊 Stats & Highlights
+
+| Metric | Value / Placeholder |
+|---|---|
+| 🏆 LeetCode Username | `YOUR_LEETCODE_USERNAME` |
+| ✅ Problems Solved | _“auto-update via stats script / badge”_ |
+| 📂 Top Topics | Array, String, DP, Graph, Hash Table etc. |
+| 🔍 Approach | Write clear solutions + explain edge cases |
+| 💬 Language | Java (100 %) :contentReference[oaicite:1]{index=1} |
+
+---
+
+## 📁 Folder Structure & Naming Convention
+
+- Each problem is stored in a folder named with its **LeetCode ID + title** (e.g. `0001-two-sum`)
+- Solution file(s) inside contain a clear class name and method signature as per LeetCode
+- Comments explain the approach, time/space analysis & tricky cases
+- Optionally: add a `README.md` per folder for deeper explanation or test cases
+
+---
+
+## 🚀 How to Use / Navigate
+
+1. Browse by topic (arrays, strings, graphs, etc.)
+2. Click into a problem folder to view solution code
+3. (If set up) use `stats.json` or a badge service to show solved count & acceptance rate  
+4. Fork & experiment — you’re welcome to submit improvements or alternate solutions
+
+---
+
+## 🔗 Useful Links
+
+- My GitHub: https://github.com/MADHAN21105  
+- (Optional) Live stats: [LeetCode Profile](https://leetcode.com/YOUR_LEETCODE_USERNAME)  
+- (Optional) Badge / stats service (LeetHub, LeetCode Badge API, etc.)
+
+---
+
+> _“A collection of LeetCode questions to ace the coding interview!”_  
+> (Generated via LeetHub v2) :contentReference[oaicite:2]{index=2}  
+
