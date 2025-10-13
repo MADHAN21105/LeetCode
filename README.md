@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/MADHAN21105/LeetCode/tree/master/0605-can-place-flowers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MADHAN21105/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MADHAN21105/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1677-matrix-diagonal-sum](https://github.com/MADHAN21105/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/MADHAN21105/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MADHAN21105/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -128,6 +129,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/MADHAN21105/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
 # 🧠 LeetCode Solutions by MADHAN21105
 
