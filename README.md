@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MADHAN21105/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MADHAN21105/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MADHAN21105/LeetCode/tree/master/0263-ugly-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MADHAN21105/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MADHAN21105/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MADHAN21105/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MADHAN21105/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
@@ -137,6 +140,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/MADHAN21105/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MADHAN21105/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
 # 🧠 LeetCode Solutions by MADHAN21105
 
