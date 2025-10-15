@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MADHAN21105/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MADHAN21105/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MADHAN21105/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/MADHAN21105/LeetCode/tree/master/0383-ransom-note) |
 | [0720-longest-word-in-dictionary](https://github.com/MADHAN21105/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/MADHAN21105/LeetCode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MADHAN21105/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MADHAN21105/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/MADHAN21105/LeetCode/tree/master/0383-ransom-note) |
 | [0720-longest-word-in-dictionary](https://github.com/MADHAN21105/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [3412-permutation-difference-between-two-strings](https://github.com/MADHAN21105/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MADHAN21105/LeetCode/tree/master/0383-ransom-note) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Matrix
 |  |
