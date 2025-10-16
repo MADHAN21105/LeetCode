@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/MADHAN21105/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/MADHAN21105/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [2048-build-array-from-permutation](https://github.com/MADHAN21105/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MADHAN21105/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MADHAN21105/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
+| [2048-build-array-from-permutation](https://github.com/MADHAN21105/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MADHAN21105/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/MADHAN21105/LeetCode/tree/master/3447-clear-digits) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/MADHAN21105/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
