@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/MADHAN21105/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0812-rotate-string](https://github.com/MADHAN21105/LeetCode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MADHAN21105/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1764-maximum-repeating-substring](https://github.com/MADHAN21105/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MADHAN21105/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/MADHAN21105/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
+| [1764-maximum-repeating-substring](https://github.com/MADHAN21105/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MADHAN21105/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/MADHAN21105/LeetCode/tree/master/0812-rotate-string) |
+| [1764-maximum-repeating-substring](https://github.com/MADHAN21105/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
 | ------- |
