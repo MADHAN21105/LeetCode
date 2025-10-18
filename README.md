@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/MADHAN21105/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MADHAN21105/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/MADHAN21105/LeetCode/tree/master/1642-water-bottles) |
+| [2645-pass-the-pillow](https://github.com/MADHAN21105/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/MADHAN21105/LeetCode/tree/master/3336-water-bottles-ii) |
 ## String
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/MADHAN21105/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/MADHAN21105/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2645-pass-the-pillow](https://github.com/MADHAN21105/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/MADHAN21105/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MADHAN21105/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/MADHAN21105/LeetCode/tree/master/3447-clear-digits) |
