@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MADHAN21105/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MADHAN21105/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MADHAN21105/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/MADHAN21105/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MADHAN21105/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MADHAN21105/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
