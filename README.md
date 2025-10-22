@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MADHAN21105/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1677-matrix-diagonal-sum](https://github.com/MADHAN21105/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/MADHAN21105/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1791-richest-customer-wealth](https://github.com/MADHAN21105/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/MADHAN21105/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/MADHAN21105/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/MADHAN21105/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/MADHAN21105/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MADHAN21105/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Enumeration
 |  |
