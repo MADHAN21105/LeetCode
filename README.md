@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/MADHAN21105/LeetCode/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1899-count-items-matching-a-rule](https://github.com/MADHAN21105/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/MADHAN21105/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/MADHAN21105/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MADHAN21105/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MADHAN21105/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MADHAN21105/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/MADHAN21105/LeetCode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/MADHAN21105/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/MADHAN21105/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2645-pass-the-pillow](https://github.com/MADHAN21105/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/MADHAN21105/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/MADHAN21105/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
