@@ -216,6 +216,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/MADHAN21105/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MADHAN21105/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/MADHAN21105/LeetCode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
 # 🧠 LeetCode Solutions by MADHAN21105
 
