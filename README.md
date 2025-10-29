@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/MADHAN21105/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MADHAN21105/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/MADHAN21105/LeetCode/tree/master/0605-can-place-flowers) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MADHAN21105/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/MADHAN21105/LeetCode/tree/master/0383-ransom-note) |
 | [0720-longest-word-in-dictionary](https://github.com/MADHAN21105/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MADHAN21105/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -228,6 +230,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MADHAN21105/LeetCode/tree/master/0039-combination-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
 # 🧠 LeetCode Solutions by MADHAN21105
 
