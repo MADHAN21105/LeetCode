@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MADHAN21105/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MADHAN21105/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MADHAN21105/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/MADHAN21105/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/MADHAN21105/LeetCode/tree/master/0070-climbing-stairs) |
 | [1764-maximum-repeating-substring](https://github.com/MADHAN21105/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -239,6 +241,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MADHAN21105/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
 # 🧠 LeetCode Solutions by MADHAN21105
 
