@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/MADHAN21105/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/MADHAN21105/LeetCode/tree/master/0605-can-place-flowers) |
 | [0720-longest-word-in-dictionary](https://github.com/MADHAN21105/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0792-binary-search](https://github.com/MADHAN21105/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/MADHAN21105/LeetCode/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MADHAN21105/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MADHAN21105/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/MADHAN21105/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/MADHAN21105/LeetCode/tree/master/0792-binary-search) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
