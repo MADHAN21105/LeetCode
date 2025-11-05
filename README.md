@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/MADHAN21105/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MADHAN21105/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MADHAN21105/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MADHAN21105/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/MADHAN21105/LeetCode/tree/master/0605-can-place-flowers) |
 | [0720-longest-word-in-dictionary](https://github.com/MADHAN21105/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MADHAN21105/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/MADHAN21105/LeetCode/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MADHAN21105/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/MADHAN21105/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MADHAN21105/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MADHAN21105/LeetCode/tree/master/1635-number-of-good-pairs) |
