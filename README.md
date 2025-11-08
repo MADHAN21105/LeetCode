@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MADHAN21105/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/MADHAN21105/LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MADHAN21105/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/MADHAN21105/LeetCode/tree/master/0136-single-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/MADHAN21105/LeetCode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/MADHAN21105/LeetCode/tree/master/1642-water-bottles) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/MADHAN21105/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/MADHAN21105/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MADHAN21105/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
