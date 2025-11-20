@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MADHAN21105/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/MADHAN21105/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/MADHAN21105/LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/MADHAN21105/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MADHAN21105/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/MADHAN21105/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MADHAN21105/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/MADHAN21105/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MADHAN21105/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MADHAN21105/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MADHAN21105/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MADHAN21105/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/MADHAN21105/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MADHAN21105/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/MADHAN21105/LeetCode/tree/master/0792-binary-search) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/MADHAN21105/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MADHAN21105/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MADHAN21105/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MADHAN21105/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/MADHAN21105/LeetCode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MADHAN21105/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MADHAN21105/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MADHAN21105/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MADHAN21105/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MADHAN21105/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0720-longest-word-in-dictionary](https://github.com/MADHAN21105/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0948-sort-an-array](https://github.com/MADHAN21105/LeetCode/tree/master/0948-sort-an-array) |
@@ -194,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MADHAN21105/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MADHAN21105/LeetCode/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
