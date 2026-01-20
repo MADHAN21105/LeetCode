@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MADHAN21105/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MADHAN21105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/MADHAN21105/LeetCode/tree/master/0682-baseball-game) |
 | [3447-clear-digits](https://github.com/MADHAN21105/LeetCode/tree/master/3447-clear-digits) |
 ## Array
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MADHAN21105/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/MADHAN21105/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/MADHAN21105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/MADHAN21105/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MADHAN21105/LeetCode/tree/master/0066-plus-one) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MADHAN21105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MADHAN21105/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MADHAN21105/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MADHAN21105/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MADHAN21105/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MADHAN21105/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/MADHAN21105/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MADHAN21105/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/MADHAN21105/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MADHAN21105/LeetCode/tree/master/0189-rotate-array) |
@@ -288,6 +292,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MADHAN21105/LeetCode/tree/master/0292-nim-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MADHAN21105/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
 # 🧠 LeetCode Solutions by MADHAN21105
 
